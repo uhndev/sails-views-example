@@ -1,1 +1,3 @@
-# sails-views-example
+# sails-views
+
+a [Sails](http://sailsjs.org) application
